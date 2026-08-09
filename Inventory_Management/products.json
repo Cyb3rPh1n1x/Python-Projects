@@ -1,0 +1,26 @@
+[
+  {
+    "sku": "SKU001",
+    "name": "Wireless Mouse",
+    "price": 19.99,
+    "quantity": 8
+  },
+  {
+    "sku": "SKU002",
+    "name": "Mechanical Keyboard",
+    "price": 79.99,
+    "quantity": 5
+  },
+  {
+    "sku": "SKU003",
+    "name": "USB-C Hub",
+    "price": 34.5,
+    "quantity": 7
+  },
+  {
+    "sku": "SKU004",
+    "name": "Webcam 1080p",
+    "price": 45.0,
+    "quantity": 3
+  }
+]
