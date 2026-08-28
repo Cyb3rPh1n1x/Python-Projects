@@ -1,0 +1,378 @@
+==============================================================================
+                  UEFA CHAMPIONS LEAGUE — LEAGUE PHASE DRAW                   
+                           (completed in 1 attempt)                           
+==============================================================================
+
+--- POT 1 -------------------------------------------------------------------
+
+Paris           [France       ]
+    HOME  vs  Arsenal         (Pot 1, England)
+    HOME  vs  Aston Villa     (Pot 2, England)
+    HOME  vs  Villarreal      (Pot 3, Spain)
+    HOME  vs  Slavia Praha    (Pot 4, Czechia)
+    AWAY  vs  Bayern München  (Pot 1, Germany)
+    AWAY  vs  Real Betis      (Pot 2, Spain)
+    AWAY  vs  Shakhtar        (Pot 3, Ukraine)
+    AWAY  vs  Viking          (Pot 4, Norway)
+
+Bayern München  [Germany      ]
+    HOME  vs  Paris           (Pot 1, France)
+    HOME  vs  Man Utd         (Pot 2, England)
+    HOME  vs  Napoli          (Pot 3, Italy)
+    HOME  vs  LASK            (Pot 4, Austria)
+    AWAY  vs  Atleti          (Pot 1, Spain)
+    AWAY  vs  Porto           (Pot 2, Portugal)
+    AWAY  vs  Villarreal      (Pot 3, Spain)
+    AWAY  vs  Lens            (Pot 4, France)
+
+Real Madrid     [Spain        ]
+    HOME  vs  Liverpool       (Pot 1, England)
+    HOME  vs  B. Dortmund     (Pot 2, Germany)
+    HOME  vs  Shakhtar        (Pot 3, Ukraine)
+    HOME  vs  Viking          (Pot 4, Norway)
+    AWAY  vs  Man City        (Pot 1, England)
+    AWAY  vs  Club Brugge     (Pot 2, Belgium)
+    AWAY  vs  Galatasaray     (Pot 3, Turkey)
+    AWAY  vs  Slavia Praha    (Pot 4, Czechia)
+
+Liverpool       [England      ]
+    HOME  vs  Inter           (Pot 1, Italy)
+    HOME  vs  Real Betis      (Pot 2, Spain)
+    HOME  vs  Galatasaray     (Pot 3, Turkey)
+    HOME  vs  Como            (Pot 4, Italy)
+    AWAY  vs  Real Madrid     (Pot 1, Spain)
+    AWAY  vs  PSV             (Pot 2, Netherlands)
+    AWAY  vs  Lille           (Pot 3, France)
+    AWAY  vs  Stuttgart       (Pot 4, Germany)
+
+Inter           [Italy        ]
+    HOME  vs  Barcelona       (Pot 1, Spain)
+    HOME  vs  PSV             (Pot 2, Netherlands)
+    HOME  vs  Fenerbahçe      (Pot 3, Turkey)
+    HOME  vs  Lens            (Pot 4, France)
+    AWAY  vs  Liverpool       (Pot 1, England)
+    AWAY  vs  Man Utd         (Pot 2, England)
+    AWAY  vs  Leipzig         (Pot 3, Germany)
+    AWAY  vs  LASK            (Pot 4, Austria)
+
+Man City        [England      ]
+    HOME  vs  Real Madrid     (Pot 1, Spain)
+    HOME  vs  Club Brugge     (Pot 2, Belgium)
+    HOME  vs  Feyenoord       (Pot 3, Netherlands)
+    HOME  vs  AEK Athens      (Pot 4, Greece)
+    AWAY  vs  Barcelona       (Pot 1, Spain)
+    AWAY  vs  Roma            (Pot 2, Italy)
+    AWAY  vs  Napoli          (Pot 3, Italy)
+    AWAY  vs  S. Bratislava   (Pot 4, Slovakia)
+
+Arsenal         [England      ]
+    HOME  vs  Atleti          (Pot 1, Spain)
+    HOME  vs  Porto           (Pot 2, Portugal)
+    HOME  vs  Lille           (Pot 3, France)
+    HOME  vs  Stuttgart       (Pot 4, Germany)
+    AWAY  vs  Paris           (Pot 1, France)
+    AWAY  vs  Sporting CP     (Pot 2, Portugal)
+    AWAY  vs  Bodø/Glimt      (Pot 3, Norway)
+    AWAY  vs  Sabah           (Pot 4, Azerbaijan)
+
+Barcelona       [Spain        ]
+    HOME  vs  Man City        (Pot 1, England)
+    HOME  vs  Sporting CP     (Pot 2, Portugal)
+    HOME  vs  Leipzig         (Pot 3, Germany)
+    HOME  vs  S. Bratislava   (Pot 4, Slovakia)
+    AWAY  vs  Inter           (Pot 1, Italy)
+    AWAY  vs  B. Dortmund     (Pot 2, Germany)
+    AWAY  vs  Feyenoord       (Pot 3, Netherlands)
+    AWAY  vs  AEK Athens      (Pot 4, Greece)
+
+Atleti          [Spain        ]
+    HOME  vs  Bayern München  (Pot 1, Germany)
+    HOME  vs  Roma            (Pot 2, Italy)
+    HOME  vs  Bodø/Glimt      (Pot 3, Norway)
+    HOME  vs  Sabah           (Pot 4, Azerbaijan)
+    AWAY  vs  Arsenal         (Pot 1, England)
+    AWAY  vs  Aston Villa     (Pot 2, England)
+    AWAY  vs  Fenerbahçe      (Pot 3, Turkey)
+    AWAY  vs  Como            (Pot 4, Italy)
+
+--- POT 2 -------------------------------------------------------------------
+
+B. Dortmund     [Germany      ]
+    HOME  vs  Barcelona       (Pot 1, Spain)
+    HOME  vs  Roma            (Pot 2, Italy)
+    HOME  vs  Fenerbahçe      (Pot 3, Turkey)
+    HOME  vs  Lens            (Pot 4, France)
+    AWAY  vs  Real Madrid     (Pot 1, Spain)
+    AWAY  vs  Aston Villa     (Pot 2, England)
+    AWAY  vs  Shakhtar        (Pot 3, Ukraine)
+    AWAY  vs  Como            (Pot 4, Italy)
+
+Roma            [Italy        ]
+    HOME  vs  Man City        (Pot 1, England)
+    HOME  vs  Club Brugge     (Pot 2, Belgium)
+    HOME  vs  Shakhtar        (Pot 3, Ukraine)
+    HOME  vs  S. Bratislava   (Pot 4, Slovakia)
+    AWAY  vs  Atleti          (Pot 1, Spain)
+    AWAY  vs  B. Dortmund     (Pot 2, Germany)
+    AWAY  vs  Leipzig         (Pot 3, Germany)
+    AWAY  vs  Lens            (Pot 4, France)
+
+Sporting CP     [Portugal     ]
+    HOME  vs  Arsenal         (Pot 1, England)
+    HOME  vs  PSV             (Pot 2, Netherlands)
+    HOME  vs  Napoli          (Pot 3, Italy)
+    HOME  vs  Como            (Pot 4, Italy)
+    AWAY  vs  Barcelona       (Pot 1, Spain)
+    AWAY  vs  Man Utd         (Pot 2, England)
+    AWAY  vs  Feyenoord       (Pot 3, Netherlands)
+    AWAY  vs  AEK Athens      (Pot 4, Greece)
+
+Aston Villa     [England      ]
+    HOME  vs  Atleti          (Pot 1, Spain)
+    HOME  vs  B. Dortmund     (Pot 2, Germany)
+    HOME  vs  Leipzig         (Pot 3, Germany)
+    HOME  vs  LASK            (Pot 4, Austria)
+    AWAY  vs  Paris           (Pot 1, France)
+    AWAY  vs  PSV             (Pot 2, Netherlands)
+    AWAY  vs  Villarreal      (Pot 3, Spain)
+    AWAY  vs  Viking          (Pot 4, Norway)
+
+Porto           [Portugal     ]
+    HOME  vs  Bayern München  (Pot 1, Germany)
+    HOME  vs  Real Betis      (Pot 2, Spain)
+    HOME  vs  Villarreal      (Pot 3, Spain)
+    HOME  vs  Sabah           (Pot 4, Azerbaijan)
+    AWAY  vs  Arsenal         (Pot 1, England)
+    AWAY  vs  Club Brugge     (Pot 2, Belgium)
+    AWAY  vs  Bodø/Glimt      (Pot 3, Norway)
+    AWAY  vs  S. Bratislava   (Pot 4, Slovakia)
+
+Man Utd         [England      ]
+    HOME  vs  Inter           (Pot 1, Italy)
+    HOME  vs  Sporting CP     (Pot 2, Portugal)
+    HOME  vs  Galatasaray     (Pot 3, Turkey)
+    HOME  vs  AEK Athens      (Pot 4, Greece)
+    AWAY  vs  Bayern München  (Pot 1, Germany)
+    AWAY  vs  Real Betis      (Pot 2, Spain)
+    AWAY  vs  Napoli          (Pot 3, Italy)
+    AWAY  vs  Slavia Praha    (Pot 4, Czechia)
+
+Club Brugge     [Belgium      ]
+    HOME  vs  Real Madrid     (Pot 1, Spain)
+    HOME  vs  Porto           (Pot 2, Portugal)
+    HOME  vs  Feyenoord       (Pot 3, Netherlands)
+    HOME  vs  Stuttgart       (Pot 4, Germany)
+    AWAY  vs  Man City        (Pot 1, England)
+    AWAY  vs  Roma            (Pot 2, Italy)
+    AWAY  vs  Lille           (Pot 3, France)
+    AWAY  vs  Sabah           (Pot 4, Azerbaijan)
+
+Real Betis      [Spain        ]
+    HOME  vs  Paris           (Pot 1, France)
+    HOME  vs  Man Utd         (Pot 2, England)
+    HOME  vs  Lille           (Pot 3, France)
+    HOME  vs  Viking          (Pot 4, Norway)
+    AWAY  vs  Liverpool       (Pot 1, England)
+    AWAY  vs  Porto           (Pot 2, Portugal)
+    AWAY  vs  Fenerbahçe      (Pot 3, Turkey)
+    AWAY  vs  LASK            (Pot 4, Austria)
+
+PSV             [Netherlands  ]
+    HOME  vs  Liverpool       (Pot 1, England)
+    HOME  vs  Aston Villa     (Pot 2, England)
+    HOME  vs  Bodø/Glimt      (Pot 3, Norway)
+    HOME  vs  Slavia Praha    (Pot 4, Czechia)
+    AWAY  vs  Inter           (Pot 1, Italy)
+    AWAY  vs  Sporting CP     (Pot 2, Portugal)
+    AWAY  vs  Galatasaray     (Pot 3, Turkey)
+    AWAY  vs  Stuttgart       (Pot 4, Germany)
+
+--- POT 3 -------------------------------------------------------------------
+
+Feyenoord       [Netherlands  ]
+    HOME  vs  Barcelona       (Pot 1, Spain)
+    HOME  vs  Sporting CP     (Pot 2, Portugal)
+    HOME  vs  Bodø/Glimt      (Pot 3, Norway)
+    HOME  vs  Como            (Pot 4, Italy)
+    AWAY  vs  Man City        (Pot 1, England)
+    AWAY  vs  Club Brugge     (Pot 2, Belgium)
+    AWAY  vs  Leipzig         (Pot 3, Germany)
+    AWAY  vs  S. Bratislava   (Pot 4, Slovakia)
+
+Lille           [France       ]
+    HOME  vs  Liverpool       (Pot 1, England)
+    HOME  vs  Club Brugge     (Pot 2, Belgium)
+    HOME  vs  Napoli          (Pot 3, Italy)
+    HOME  vs  Slavia Praha    (Pot 4, Czechia)
+    AWAY  vs  Arsenal         (Pot 1, England)
+    AWAY  vs  Real Betis      (Pot 2, Spain)
+    AWAY  vs  Galatasaray     (Pot 3, Turkey)
+    AWAY  vs  Stuttgart       (Pot 4, Germany)
+
+Bodø/Glimt      [Norway       ]
+    HOME  vs  Arsenal         (Pot 1, England)
+    HOME  vs  Porto           (Pot 2, Portugal)
+    HOME  vs  Galatasaray     (Pot 3, Turkey)
+    HOME  vs  S. Bratislava   (Pot 4, Slovakia)
+    AWAY  vs  Atleti          (Pot 1, Spain)
+    AWAY  vs  PSV             (Pot 2, Netherlands)
+    AWAY  vs  Feyenoord       (Pot 3, Netherlands)
+    AWAY  vs  Sabah           (Pot 4, Azerbaijan)
+
+Napoli          [Italy        ]
+    HOME  vs  Man City        (Pot 1, England)
+    HOME  vs  Man Utd         (Pot 2, England)
+    HOME  vs  Villarreal      (Pot 3, Spain)
+    HOME  vs  Sabah           (Pot 4, Azerbaijan)
+    AWAY  vs  Bayern München  (Pot 1, Germany)
+    AWAY  vs  Sporting CP     (Pot 2, Portugal)
+    AWAY  vs  Lille           (Pot 3, France)
+    AWAY  vs  LASK            (Pot 4, Austria)
+
+Leipzig         [Germany      ]
+    HOME  vs  Inter           (Pot 1, Italy)
+    HOME  vs  Roma            (Pot 2, Italy)
+    HOME  vs  Feyenoord       (Pot 3, Netherlands)
+    HOME  vs  AEK Athens      (Pot 4, Greece)
+    AWAY  vs  Barcelona       (Pot 1, Spain)
+    AWAY  vs  Aston Villa     (Pot 2, England)
+    AWAY  vs  Fenerbahçe      (Pot 3, Turkey)
+    AWAY  vs  Slavia Praha    (Pot 4, Czechia)
+
+Villarreal      [Spain        ]
+    HOME  vs  Bayern München  (Pot 1, Germany)
+    HOME  vs  Aston Villa     (Pot 2, England)
+    HOME  vs  Shakhtar        (Pot 3, Ukraine)
+    HOME  vs  Stuttgart       (Pot 4, Germany)
+    AWAY  vs  Paris           (Pot 1, France)
+    AWAY  vs  Porto           (Pot 2, Portugal)
+    AWAY  vs  Napoli          (Pot 3, Italy)
+    AWAY  vs  Como            (Pot 4, Italy)
+
+Fenerbahçe      [Turkey       ]
+    HOME  vs  Atleti          (Pot 1, Spain)
+    HOME  vs  Real Betis      (Pot 2, Spain)
+    HOME  vs  Leipzig         (Pot 3, Germany)
+    HOME  vs  Lens            (Pot 4, France)
+    AWAY  vs  Inter           (Pot 1, Italy)
+    AWAY  vs  B. Dortmund     (Pot 2, Germany)
+    AWAY  vs  Shakhtar        (Pot 3, Ukraine)
+    AWAY  vs  AEK Athens      (Pot 4, Greece)
+
+Shakhtar        [Ukraine      ]
+    HOME  vs  Paris           (Pot 1, France)
+    HOME  vs  B. Dortmund     (Pot 2, Germany)
+    HOME  vs  Fenerbahçe      (Pot 3, Turkey)
+    HOME  vs  LASK            (Pot 4, Austria)
+    AWAY  vs  Real Madrid     (Pot 1, Spain)
+    AWAY  vs  Roma            (Pot 2, Italy)
+    AWAY  vs  Villarreal      (Pot 3, Spain)
+    AWAY  vs  Viking          (Pot 4, Norway)
+
+Galatasaray     [Turkey       ]
+    HOME  vs  Real Madrid     (Pot 1, Spain)
+    HOME  vs  PSV             (Pot 2, Netherlands)
+    HOME  vs  Lille           (Pot 3, France)
+    HOME  vs  Viking          (Pot 4, Norway)
+    AWAY  vs  Liverpool       (Pot 1, England)
+    AWAY  vs  Man Utd         (Pot 2, England)
+    AWAY  vs  Bodø/Glimt      (Pot 3, Norway)
+    AWAY  vs  Lens            (Pot 4, France)
+
+--- POT 4 -------------------------------------------------------------------
+
+Slavia Praha    [Czechia      ]
+    HOME  vs  Real Madrid     (Pot 1, Spain)
+    HOME  vs  Man Utd         (Pot 2, England)
+    HOME  vs  Leipzig         (Pot 3, Germany)
+    HOME  vs  LASK            (Pot 4, Austria)
+    AWAY  vs  Paris           (Pot 1, France)
+    AWAY  vs  PSV             (Pot 2, Netherlands)
+    AWAY  vs  Lille           (Pot 3, France)
+    AWAY  vs  Stuttgart       (Pot 4, Germany)
+
+S. Bratislava   [Slovakia     ]
+    HOME  vs  Man City        (Pot 1, England)
+    HOME  vs  Porto           (Pot 2, Portugal)
+    HOME  vs  Feyenoord       (Pot 3, Netherlands)
+    HOME  vs  Lens            (Pot 4, France)
+    AWAY  vs  Barcelona       (Pot 1, Spain)
+    AWAY  vs  Roma            (Pot 2, Italy)
+    AWAY  vs  Bodø/Glimt      (Pot 3, Norway)
+    AWAY  vs  Como            (Pot 4, Italy)
+
+Stuttgart       [Germany      ]
+    HOME  vs  Liverpool       (Pot 1, England)
+    HOME  vs  PSV             (Pot 2, Netherlands)
+    HOME  vs  Lille           (Pot 3, France)
+    HOME  vs  Slavia Praha    (Pot 4, Czechia)
+    AWAY  vs  Arsenal         (Pot 1, England)
+    AWAY  vs  Club Brugge     (Pot 2, Belgium)
+    AWAY  vs  Villarreal      (Pot 3, Spain)
+    AWAY  vs  LASK            (Pot 4, Austria)
+
+AEK Athens      [Greece       ]
+    HOME  vs  Barcelona       (Pot 1, Spain)
+    HOME  vs  Sporting CP     (Pot 2, Portugal)
+    HOME  vs  Fenerbahçe      (Pot 3, Turkey)
+    HOME  vs  Sabah           (Pot 4, Azerbaijan)
+    AWAY  vs  Man City        (Pot 1, England)
+    AWAY  vs  Man Utd         (Pot 2, England)
+    AWAY  vs  Leipzig         (Pot 3, Germany)
+    AWAY  vs  Lens            (Pot 4, France)
+
+LASK            [Austria      ]
+    HOME  vs  Inter           (Pot 1, Italy)
+    HOME  vs  Real Betis      (Pot 2, Spain)
+    HOME  vs  Napoli          (Pot 3, Italy)
+    HOME  vs  Stuttgart       (Pot 4, Germany)
+    AWAY  vs  Bayern München  (Pot 1, Germany)
+    AWAY  vs  Aston Villa     (Pot 2, England)
+    AWAY  vs  Shakhtar        (Pot 3, Ukraine)
+    AWAY  vs  Slavia Praha    (Pot 4, Czechia)
+
+Como            [Italy        ]
+    HOME  vs  Atleti          (Pot 1, Spain)
+    HOME  vs  B. Dortmund     (Pot 2, Germany)
+    HOME  vs  Villarreal      (Pot 3, Spain)
+    HOME  vs  S. Bratislava   (Pot 4, Slovakia)
+    AWAY  vs  Liverpool       (Pot 1, England)
+    AWAY  vs  Sporting CP     (Pot 2, Portugal)
+    AWAY  vs  Feyenoord       (Pot 3, Netherlands)
+    AWAY  vs  Viking          (Pot 4, Norway)
+
+Lens            [France       ]
+    HOME  vs  Bayern München  (Pot 1, Germany)
+    HOME  vs  Roma            (Pot 2, Italy)
+    HOME  vs  Galatasaray     (Pot 3, Turkey)
+    HOME  vs  AEK Athens      (Pot 4, Greece)
+    AWAY  vs  Inter           (Pot 1, Italy)
+    AWAY  vs  B. Dortmund     (Pot 2, Germany)
+    AWAY  vs  Fenerbahçe      (Pot 3, Turkey)
+    AWAY  vs  S. Bratislava   (Pot 4, Slovakia)
+
+Viking          [Norway       ]
+    HOME  vs  Paris           (Pot 1, France)
+    HOME  vs  Aston Villa     (Pot 2, England)
+    HOME  vs  Shakhtar        (Pot 3, Ukraine)
+    HOME  vs  Como            (Pot 4, Italy)
+    AWAY  vs  Real Madrid     (Pot 1, Spain)
+    AWAY  vs  Real Betis      (Pot 2, Spain)
+    AWAY  vs  Galatasaray     (Pot 3, Turkey)
+    AWAY  vs  Sabah           (Pot 4, Azerbaijan)
+
+Sabah           [Azerbaijan   ]
+    HOME  vs  Arsenal         (Pot 1, England)
+    HOME  vs  Club Brugge     (Pot 2, Belgium)
+    HOME  vs  Bodø/Glimt      (Pot 3, Norway)
+    HOME  vs  Viking          (Pot 4, Norway)
+    AWAY  vs  Atleti          (Pot 1, Spain)
+    AWAY  vs  Porto           (Pot 2, Portugal)
+    AWAY  vs  Napoli          (Pot 3, Italy)
+    AWAY  vs  AEK Athens      (Pot 4, Greece)
+
+==============================================================================
+                                SANITY CHECKS                                 
+==============================================================================
+  ✔ All 36 teams have exactly 8 legal opponents, no country limit exceeded.
+]
